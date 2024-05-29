@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Validar la ubicacion de la empresa Datacenter Colombia" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-29T16:58:49" hostname="01DATA197" time="35.906">
+  <properties/>
+  <testcase name="Se validara la ubicacion de la empresa Datacenter Colombia S.A.S" classname="Validar la ubicacion de la empresa Datacenter Colombia" time="35.906"/>
+  <system-out><![CDATA[El titulo de validacion  es :
+ La localizacion es verdadera?true
+]]></system-out>
+  <system-err><![CDATA[may 29, 2024 11:58:50 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --lang=es,--disable-popup-b..., goog:chromeOptions: {args: [--lang=es, --disable-popup-blocking, --disable-download-notifica..., --start-maximized, --test-type, --ignore-certificate-errors, --allow-running-insecure-co..., --disable-translate, --always-authorize-plugins, --disable-extensions], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+Starting ChromeDriver 125.0.6422.60 (3ac3319bff9f3e139d632e3d195e3d2d43d86e37-refs/branch-heads/6422@{#1017}) on port 31163
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+may 29, 2024 11:58:54 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Se validara la ubicacion de la empresa Datacenter Colombia S.A.S
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
